@@ -1,0 +1,1 @@
+C program to demonstrate functionality of the fseek library function
